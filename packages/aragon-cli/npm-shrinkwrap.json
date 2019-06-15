@@ -6708,8 +6708,8 @@
       },
       "dependencies": {
         "async-eventemitter": {
-          "version": "0.2.3",
-          "resolved": "github:ahultgren/async-eventemitter#fa06e39e56786ba541c180061dbf2c0a5bbf951c",
+          "version": "github:ahultgren/async-eventemitter#fa06e39e56786ba541c180061dbf2c0a5bbf951c",
+          "from": "github:ahultgren/async-eventemitter#fa06e39e56786ba541c180061dbf2c0a5bbf951c",
           "requires": {
             "async": "^2.4.0"
           }
@@ -10376,8 +10376,8 @@
               },
               "dependencies": {
                 "async-eventemitter": {
-                  "version": "0.2.3",
-                  "resolved": "github:ahultgren/async-eventemitter#fa06e39e56786ba541c180061dbf2c0a5bbf951c",
+                  "version": "github:ahultgren/async-eventemitter#fa06e39e56786ba541c180061dbf2c0a5bbf951c",
+                  "from": "github:ahultgren/async-eventemitter#fa06e39e56786ba541c180061dbf2c0a5bbf951c",
                   "requires": {
                     "async": "^2.4.0"
                   }
