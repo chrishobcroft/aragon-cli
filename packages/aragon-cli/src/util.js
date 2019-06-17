@@ -173,6 +173,8 @@ module.exports = {
   installDeps,
   getNodePackageManager,
   getBinary,
+  getLocalBinary,
+  getGlobalBinary,
   getContract,
   ANY_ENTITY,
   NO_MANAGER,
